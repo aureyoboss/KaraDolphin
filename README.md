@@ -49,18 +49,6 @@ English, French, Spanish, German, Italian, Japanese, Korean, Chinese, Portuguese
 
 ---
 
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are welcome!
-
-If you'd like to contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a Pull Request
-
----
-
 ## 🐞 Bug Reports
 
 If you find a bug, please open an Issue and include:
