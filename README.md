@@ -17,7 +17,7 @@ It provides synchronized lyrics, singer management, playlists, and animated back
 - 💾 Karaoke session save/load (.kado format)
 - 🎤 Singer management (up to 4 singers per song)
 - ⏳ Adjustable waiting screen between singers
-- 🐬 Fun animated backgrounds (dolphins, fish, bubbles, music notes)
+- 🐬 Fun animated backgrounds (dolphins, fishes, bubbles, music notes)
 - 🎨 Customization options
 - 🆓 100% free and ad-free
 
