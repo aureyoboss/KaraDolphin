@@ -76,7 +76,7 @@ Created by AureyoBoss
 ---
 
 <img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_1.webp" alt="KaraDolphin Ecran 1">
-<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_2.webp" alt="KaraDolphin Ecran 2">
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_2b.webp" alt="KaraDolphin Ecran 2">
 <img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_3.webp" alt="KaraDolphin Ecran 3">
 <img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_4.webp" alt="KaraDolphin Ecran 4">
 
