@@ -1,4 +1,4 @@
-<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin - Logo.png" alt="KaraDolphin Logo" width="256" height="256">
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin.webp" alt="KaraDolphin Logo" width="256" height="256">
 
 # 🐬 KaraDolphin
 
@@ -75,10 +75,10 @@ Created by AureyoBoss
 
 ---
 
-<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_Ecran_1.webp" alt="KaraDolphin Ecran 1">
-<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_Ecran_2.webp" alt="KaraDolphin Ecran 2">
-<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_Ecran_3.webp" alt="KaraDolphin Ecran 3">
-<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_Ecran_4.webp" alt="KaraDolphin Ecran 4">
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_1.webp" alt="KaraDolphin Ecran 1">
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_2.webp" alt="KaraDolphin Ecran 2">
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_3.webp" alt="KaraDolphin Ecran 3">
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin_4.webp" alt="KaraDolphin Ecran 4">
 
 GitHub: https://github.com/aureyoboss
 
