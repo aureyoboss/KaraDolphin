@@ -1,9 +1,14 @@
+<img src="https://github.com/aureyoboss/KaraDolphin/blob/main/KaraDolphin - Logo.png" alt="KaraDolphin Logo" width="256" height="256">
+
+
 # 🐬 KaraDolphin
 
 **KaraDolphin** is a free karaoke software designed for fun karaoke sessions with friends and family.
 
 It provides synchronized lyrics, singer management, playlists, and animated backgrounds to create an engaging karaoke experience.
 
+
+![KaraDolphin Logo](KaraDolphin - Logo.png)
 ---
 
 ## ✨ Features
