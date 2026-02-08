@@ -67,6 +67,8 @@ If you find a bug, please open an Issue and include:
 
 If you enjoy KaraDolphin, consider supporting development with a donation.
 
+🪙https://liberapay.com/AureyoBoss/donate
+
 ---
 
 ## 👤 Author
