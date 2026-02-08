@@ -11,6 +11,7 @@ It provides synchronized lyrics, singer management, playlists, and animated back
 ## ✨ Features
 
 - 🎶 Synchronized lyrics (LRC, ASS, TXT/UltraStar)
+- 🎚️ Supports the following music formats: MP3, WAV, FLAC, WMA and OGG
 - 🔎 Online lyrics search
 - 📂 Playlist import (M3U, M3U8, XSPF, PLS)
 - 💾 Karaoke session save/load (.kado format)
